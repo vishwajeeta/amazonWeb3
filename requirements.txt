@@ -1,0 +1,4 @@
+npm run build
+//to add creadit card function
+npm i @stripe/stripe-js
+npm i @stripe/react-stripe-js
